@@ -1,2 +1,2 @@
 # CopaAmericaWebScraper
-Web scraper for Copa America
+Web scraper for Copa America wiki pages
