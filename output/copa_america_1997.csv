@@ -1,0 +1,27 @@
+Stage,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+Group,Ecuador,Argentina,0,0,D
+Group,Paraguay,Chile,1,0,H
+Group,Argentina,Chile,2,0,H
+Group,Paraguay,Ecuador,0,2,A
+Group,Ecuador,Chile,2,1,H
+Group,Paraguay,Argentina,1,1,D
+Group,Bolivia,Venezuela,1,0,H
+Group,Peru,Uruguay,1,0,H
+Group,Uruguay,Venezuela,2,0,H
+Group,Bolivia,Peru,2,0,H
+Group,Peru,Venezuela,2,0,H
+Group,Bolivia,Uruguay,1,0,H
+Group,Brazil,Costa Rica,5,0,H
+Group,Colombia,Mexico,1,2,A
+Group,Brazil,Mexico,3,2,H
+Group,Colombia,Costa Rica,4,1,H
+Group,Brazil,Colombia,2,0,H
+Group,Mexico,Costa Rica,1,1,D
+Quarter-finals,Peru,Argentina,2,1,H
+Quarter-finals,Bolivia,Colombia,2,1,H
+Quarter-finals,Mexico,Ecuador,1,1,D
+Quarter-finals,Brazil,Paraguay,2,0,H
+Semi-finals,Bolivia,Mexico,3,1,H
+Semi-finals,Peru,Brazil,0,7,A
+Match for third place,Mexico,Peru,1,0,H
+Final,Bolivia,Brazil,1,3,A
